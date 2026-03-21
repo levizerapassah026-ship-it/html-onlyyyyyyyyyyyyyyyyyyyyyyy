@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gallery</title>
+</head>
+
+<body bgcolor="#f8d7da">
+
+<!-- LOGO -->
+<br>
+<font face="Brush Script MT" size="5" color="white">
+    <b>&nbsp;L's Gallery 🌸</b>
+</font>
+
+<center>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<!-- GALLERY TABLE (BANYAK FOTO) -->
+<table align="center">
+    <tr>
+        <td><img src="foto1.jpeg" width="100"></td>
+        <td><img src="foto2.jpeg" width="100"></td>
+        <td><img src="foto3.jpeg" width="100"></td>
+        <td><img src="foto4.jpeg" width="100"></td>
+        <td><img src="foto5.jpeg" width="100"></td>
+        <td><img src="foto6.jpeg" width="100"></td>
+    </tr>
+
+    <tr>
+        <td><img src="foto7.jpeg" width="100"></td>
+        <td><img src="foto8.jpeg" width="100"></td>
+        <td><img src="foto9.jpeg" width="100"></td>
+        <td><img src="foto10.jpeg" width="100"></td>
+        <td><img src="foto11.jpeg" width="100"></td>
+        <td><img src="foto12.jpeg" width="100"></td>
+    </tr>
+</table>
+
+<br><br><br><br>
+
+<!-- NAVIGATION -->
+<a href="index.html"><button>Home</button></a>
+<a href="home.html"><button>About</button></a>
+<a href="blog.html"><button>Blog</button></a>
+<a href="contact.html"><button>Contact</button></a>
+
+<br><br><br>
+
+<hr width="50%" color="white">
+
+<br>
+
+<font color="white" size="2">
+    © 2026 Levizera Passah ✧･ﾟ: 🌸:･ﾟ✧
+</font>
+
+<br><br>
+
+</center>
+
+</body>
+</html>
